@@ -31,6 +31,7 @@ background-color: darkgrey; /* Green */
   font-size: 20px;
   display: inline-block;
   cursor: pointer;
+  border-radius: 20px;
 }
 
 .divider{
