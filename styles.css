@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 3;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    
+}
+
+
+li{
+    list-style: none;
+    
+}
+
+button{
+background-color: darkgrey; /* Green */
+  border: black;
+  border-style: solid;
+  padding: 10px 24px;
+  text-align: center;
+  font-size: 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.divider{
+    width: auto;
+    height: 5px;
+}
